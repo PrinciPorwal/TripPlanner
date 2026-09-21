@@ -1,12 +1,10 @@
 # ✈️ TripPlanner - Full-Stack Travel Planning & Expense Management
 
-<div align="center">
+<div>
 
 
-<p align="center">
-  <b>TripPlanner is a web application that allows users to plan trips, organize day-wise itineraries, manage destinations and activities, track expenses and visualize their entire journey through an interactive interface.</b>
-  <br />
-  Plan itineraries day-by-day, organize activities, track expenses in multiple currencies, visualize spending breakdowns, and keep your adventures seamless.
+<p>
+  TripPlanner is a web application that allows users to plan trips, organize day-wise itineraries, manage destinations and activities, track expenses and visualize their entire journey through an interactive interface.
 </p>
 
 
