@@ -1,0 +1,13 @@
+{
+  "name": "tripplanner-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TripPlanner MVP - Fullstack Travel Planning & Expense Management",
+  "scripts": {
+    "dev": "npm --prefix client run dev",
+    "dev:client": "npm --prefix client run dev",
+    "dev:server": "npm --prefix server run dev",
+    "start:server": "npm --prefix server start",
+    "build:client": "npm --prefix client run build"
+  }
+}
